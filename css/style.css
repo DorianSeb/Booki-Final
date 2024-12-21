@@ -362,7 +362,7 @@ footer {
 }
 
 footer .column {
-    width: 30%;
+    width: 33%;
 }
 
 footer .column ul {
@@ -474,7 +474,7 @@ footer .column ul li a {
     }
     h1 {
         font-size: 19px;
-        width: 335px;
+        width: 100%;
     }
     h2 {
         margin: auto;
